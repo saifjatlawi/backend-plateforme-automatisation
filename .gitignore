@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project specific files
+client_secret2.json
+token.json
+api/client_secret.json
+api/.env
